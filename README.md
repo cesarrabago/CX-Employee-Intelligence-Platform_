@@ -183,7 +183,7 @@ RETURN DIVIDE(ThisWeek - LastWeek, LastWeek) * 100
 
 ## 📐 Architecture
 
-![Platform architecture](./image/.Architecture_.png)
+![Platform architecture](./Architecture_.png)
 
 ---
 
